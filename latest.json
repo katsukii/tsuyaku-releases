@@ -1,1 +1,7 @@
-{"version": "0.0.0", "build": 0, "url": "", "sha256": "", "notes": ""}
+{
+  "version": "0.2.0",
+  "build": 2,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.0/Tsuyaku-0.2.0.zip",
+  "sha256": "78e8fc85290861e7b5996fc2e91cf9e4fde5e036d65c0c27d3b813e358a742ce",
+  "notes": "話者分けの精度改善（短い録音・番号の飛び）、用途プロファイル（会議／学習）、アプリ内アップデート"
+}
