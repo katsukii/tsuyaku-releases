@@ -1,7 +1,7 @@
 {
-  "version": "0.2.5",
-  "build": 7,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.5/Tsuyaku-0.2.5.zip",
-  "sha256": "e9e3160ca20a2546aeaffb7b687d01702158a59885126cb9832619314cdb4689",
-  "notes": "0.2.4 の不具合修正: 更新に失敗したあと字幕を開始できなくなる問題。終了・停止の期限を整理。"
+  "version": "0.2.6",
+  "build": 8,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.6/Tsuyaku-0.2.6.zip",
+  "sha256": "c34b6635dae7794df0f4f1d6f0751793d11e42e06d0518c4f513f654928b841c",
+  "notes": "設定に「用語集」を追加(人名・社内用語の誤認識を減らす)。更新ウィンドウが字幕の後ろに隠れる問題を修正。zip を展開した場所から起動した場合に「アプリケーションフォルダへ移動」で更新可能に。書き出しの既定をダウンロードに。"
 }
