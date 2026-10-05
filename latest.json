@@ -1,7 +1,7 @@
 {
-  "version": "0.2.6",
-  "build": 8,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.6/Tsuyaku-0.2.6.zip",
-  "sha256": "c34b6635dae7794df0f4f1d6f0751793d11e42e06d0518c4f513f654928b841c",
-  "notes": "設定に「用語集」を追加(人名・社内用語の誤認識を減らす)。更新ウィンドウが字幕の後ろに隠れる問題を修正。zip を展開した場所から起動した場合に「アプリケーションフォルダへ移動」で更新可能に。書き出しの既定をダウンロードに。"
+  "version": "0.2.7",
+  "build": 9,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.7/Tsuyaku-0.2.7.zip",
+  "sha256": "922b09e13b56fd90d4b72c08a46fb137f53b7f2af970fd7084580db9303316b1",
+  "notes": "更新が差し替えできない環境では古い Tsuyaku を残して中止するように(起動不能を防止)。会議記録の全削除でデバッグ用の音声も確実に消えるように。"
 }
