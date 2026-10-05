@@ -1,7 +1,7 @@
 {
-  "version": "0.2.7",
-  "build": 9,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.7/Tsuyaku-0.2.7.zip",
-  "sha256": "922b09e13b56fd90d4b72c08a46fb137f53b7f2af970fd7084580db9303316b1",
-  "notes": "更新が差し替えできない環境では古い Tsuyaku を残して中止するように(起動不能を防止)。会議記録の全削除でデバッグ用の音声も確実に消えるように。"
+  "version": "0.2.8",
+  "build": 10,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.8/Tsuyaku-0.2.8.zip",
+  "sha256": "756a07c32456f39c5d684dd499014ed4e0f8739230b0a436c9f19d7862a5e657",
+  "notes": "設定の「翻訳」で翻訳エンジンに Claude（クラウド、自分の API キー）を選べるように。確定文だけを送り、直前の文脈と用語集で訳が自然に。既定は従来どおり Apple（端末内）。"
 }
