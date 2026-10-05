@@ -1,7 +1,7 @@
 {
-  "version": "0.2.1",
-  "build": 3,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.1/Tsuyaku-0.2.1.zip",
-  "sha256": "a5aa223c5966052e0ca3af73f7cf61b403ca94ee2827cb61af4af23bf0bf2787",
-  "notes": "更新の安全性強化（原子的差し替え・排他・取得制限）、会議記録の保存方針（アプリ専用フォルダ・保持期限・一括削除・書き出し）、話者分けの修正（番号の固定・短い録音・評価の是正）"
+  "version": "0.2.2",
+  "build": 4,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.2/Tsuyaku-0.2.2.zip",
+  "sha256": "5e083063ebac67c4541dfe28c1d4a9178a839d2a008dc4c2cb779f953b3cd5b7",
+  "notes": "メニューと設定の情報設計を刷新（メニューは必要な操作だけ、一時停止・マイク・書き出しは字幕ウィンドウへ）\n更新は専用ウィンドウに（会議中に割り込まない）、「Tsuyaku について」で版を確認\nヘッダーの操作ボタンを見やすく（ラベルと操作を分離、幅が狭くても崩れない）\n更新の安全性強化（原子的差し替え・排他・取得制限）と会議記録の削除を確実に\n話者分けの修正（短い録音・番号の固定・未判定の文を他人に混ぜない）"
 }
