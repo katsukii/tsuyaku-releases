@@ -1,7 +1,7 @@
 {
-  "version": "0.2.4",
-  "build": 6,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.4/Tsuyaku-0.2.4.zip",
-  "sha256": "fb0799718df084637b34a3fc3dee24ca3aca9f02075904d58ded77e468119702",
-  "notes": "話者の整理で 1 文に 2 人が混ざった場合に分割して和訳。一時停止中の音声を字幕・記録から完全に除外。整理中は書き出しを無効化、保存パネルの固まりを解消。終了・更新の安定化。"
+  "version": "0.2.5",
+  "build": 7,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.5/Tsuyaku-0.2.5.zip",
+  "sha256": "e9e3160ca20a2546aeaffb7b687d01702158a59885126cb9832619314cdb4689",
+  "notes": "0.2.4 の不具合修正: 更新に失敗したあと字幕を開始できなくなる問題。終了・停止の期限を整理。"
 }
