@@ -1,7 +1,7 @@
 {
-  "version": "0.2.3",
-  "build": 5,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.3/Tsuyaku-0.2.3.zip",
-  "sha256": "3ae00e43e4cddb64788a0eb9cae0f7f6c1b93e9e5b32ec1c8d2afc8672dd2392",
-  "notes": "話者の整理結果を記録に保存し、書き起こしに「相手 1／相手 2」を表示\n停止直後に終了しても、次回起動時に話者の整理を再開\nスクロール中に最新へ引き戻されないように（追従の判断をユーザー操作だけに）\n保存・復旧・削除の整合性を強化（書けなかった記録を表示しない、破損は保全、削除の取りこぼしを再試行）\n文字サイズ設定がヘッダーにも反映、VoiceOver のラベルを追加"
+  "version": "0.2.4",
+  "build": 6,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.4/Tsuyaku-0.2.4.zip",
+  "sha256": "fb0799718df084637b34a3fc3dee24ca3aca9f02075904d58ded77e468119702",
+  "notes": "話者の整理で 1 文に 2 人が混ざった場合に分割して和訳。一時停止中の音声を字幕・記録から完全に除外。整理中は書き出しを無効化、保存パネルの固まりを解消。終了・更新の安定化。"
 }
