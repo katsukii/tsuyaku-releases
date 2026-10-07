@@ -1,7 +1,7 @@
 {
-  "version": "0.3.1",
-  "build": 12,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.3.1/Tsuyaku-0.3.1.zip",
-  "sha256": "6a319185436a65ad54fbf36aa731e915870f4cff95073507e69fd1a77f593d0e",
-  "notes": "字幕の履歴をスクロールしているときに固まる（虹色のカーソルが出て強制終了が必要になる）問題を修正しました。まとめの作成中、長い会議の停止後に起きていました。"
+  "version": "0.4.0",
+  "build": 13,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.0/Tsuyaku-0.4.0.zip",
+  "sha256": "19e454afedc703f9e09d4d659f18e50b01789ffbd3a50c76171962d1e0b03d89",
+  "notes": "会議後のまとめを改善しました。8 分以上の会議は議題ごとに分けて表示し、上に「決定・自分への依頼」をまとめます。数字や理由などの取りこぼしを減らし、自分から引き受けた作業も「自分への依頼」に入ります。条件付きの決定には「条件付き」の印が付きます。まとめの費用上限の既定を ¥300 にしました。"
 }
