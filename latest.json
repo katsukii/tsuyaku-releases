@@ -1,7 +1,7 @@
 {
-  "version": "0.2.8",
-  "build": 10,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.2.8/Tsuyaku-0.2.8.zip",
-  "sha256": "756a07c32456f39c5d684dd499014ed4e0f8739230b0a436c9f19d7862a5e657",
-  "notes": "設定の「翻訳」で翻訳エンジンに Claude（クラウド、自分の API キー）を選べるように。確定文だけを送り、直前の文脈と用語集で訳が自然に。既定は従来どおり Apple（端末内）。"
+  "version": "0.3.0",
+  "build": 11,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.3.0/Tsuyaku-0.3.0.zip",
+  "sha256": "0d5396825531f68bdc6ebabcb30761754f21c34bbc38e764c830967863516bad",
+  "notes": "会議後のまとめを追加（停止後に決定・自分への依頼・要点を原文の根拠つきで自動作成、字幕とまとめの切替、txt にも出力。設定の「記録」で有効化）。クラウド翻訳に Gemini と主／予備の切替、確定した行にも即座に仮訳。設定画面を刷新。"
 }
