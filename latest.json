@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0",
-  "build": 11,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.3.0/Tsuyaku-0.3.0.zip",
-  "sha256": "0d5396825531f68bdc6ebabcb30761754f21c34bbc38e764c830967863516bad",
-  "notes": "会議後のまとめを追加（停止後に決定・自分への依頼・要点を原文の根拠つきで自動作成、字幕とまとめの切替、txt にも出力。設定の「記録」で有効化）。クラウド翻訳に Gemini と主／予備の切替、確定した行にも即座に仮訳。設定画面を刷新。"
+  "version": "0.3.1",
+  "build": 12,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.3.1/Tsuyaku-0.3.1.zip",
+  "sha256": "6a319185436a65ad54fbf36aa731e915870f4cff95073507e69fd1a77f593d0e",
+  "notes": "字幕の履歴をスクロールしているときに固まる（虹色のカーソルが出て強制終了が必要になる）問題を修正しました。まとめの作成中、長い会議の停止後に起きていました。"
 }
