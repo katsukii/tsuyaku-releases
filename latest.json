@@ -1,7 +1,7 @@
 {
-  "version": "0.4.1",
-  "build": 14,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.1/Tsuyaku-0.4.1.zip",
-  "sha256": "955740c5c19ea313007437d46892783286ca16690e40c643480f463ad5aa0c1f",
-  "notes": "会議を止めた直後からまとめを作り始めるようにしました。これまでは話者の整理（1 時間の会議で 15〜20 分）が終わるまで待っていましたが、整理と並行して進むので、まとめは生成の時間（会議で数十秒〜1、2 分）で出ます。話者の整理も約 1.4 倍速くなりました。"
+  "version": "0.4.2",
+  "build": 15,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.2/Tsuyaku-0.4.2.zip",
+  "sha256": "566b1e8fa33533a87568858baa95e3a815775dc8c700d79f6f673b2932c68eab",
+  "notes": "会議を止めたあと、字幕の履歴を最初から見られるようにしました（会議中は直近 500 行の表示のままです）。これまでは古い行が消えて、会議の途中からしか見返せませんでした。長い会議のあとに、終了やアップデートが固まって終わらないことがある問題も直しました。"
 }
