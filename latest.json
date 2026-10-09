@@ -1,7 +1,7 @@
 {
-  "version": "0.4.2",
-  "build": 15,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.2/Tsuyaku-0.4.2.zip",
-  "sha256": "566b1e8fa33533a87568858baa95e3a815775dc8c700d79f6f673b2932c68eab",
-  "notes": "会議を止めたあと、字幕の履歴を最初から見られるようにしました（会議中は直近 500 行の表示のままです）。これまでは古い行が消えて、会議の途中からしか見返せませんでした。長い会議のあとに、終了やアップデートが固まって終わらないことがある問題も直しました。"
+  "version": "0.4.3",
+  "build": 16,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.3/Tsuyaku-0.4.3.zip",
+  "sha256": "8367339ed6e61b299eb4ca9b53fa8290f804cb3b617e5460b8b9707647689fc7",
+  "notes": "字幕の表示を変えました。最新の文は下の枠に英文 2 行・和訳 2 行で出し、上の履歴は文が枠から上がるときだけ動くので、読んでいる途中で文字がずれません。ウィンドウを低くすると枠だけになり（上のボタンで履歴を戻せます）、会議を止めると履歴を全面に表示します。"
 }
