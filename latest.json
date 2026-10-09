@@ -1,7 +1,7 @@
 {
-  "version": "0.4.5",
-  "build": 18,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.5/Tsuyaku-0.4.5.zip",
-  "sha256": "2e5eac397e64cafba5809e97315f9f2759096df9a9fa877aa7b0d2dfec62e92e",
-  "notes": "字幕の表示を 0.4.2 の形に戻しました。0.4.3・0.4.4 で入れた表示の変更で、話が速いときに字幕が追いにくくなっていたためです。過去の会議の一覧、まとめの費用の見積もりの修正などはそのまま使えます。"
+  "version": "0.4.6",
+  "build": 19,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.6/Tsuyaku-0.4.6.zip",
+  "sha256": "11e89a445924499933dc38ca56df82bc8193a57bc62e95c7eb255314ee803014",
+  "notes": "マイクの感度のスライダーを、右が高感度になる向きに直しました。録音中に動かすと、止めずにすぐ効きます。"
 }
