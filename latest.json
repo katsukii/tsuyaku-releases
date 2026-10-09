@@ -1,7 +1,7 @@
 {
-  "version": "0.4.3",
-  "build": 16,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.3/Tsuyaku-0.4.3.zip",
-  "sha256": "8367339ed6e61b299eb4ca9b53fa8290f804cb3b617e5460b8b9707647689fc7",
-  "notes": "字幕の表示を変えました。最新の文は下の枠に英文 2 行・和訳 2 行で出し、上の履歴は文が枠から上がるときだけ動くので、読んでいる途中で文字がずれません。ウィンドウを低くすると枠だけになり（上のボタンで履歴を戻せます）、会議を止めると履歴を全面に表示します。"
+  "version": "0.4.4",
+  "build": 17,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.4/Tsuyaku-0.4.4.zip",
+  "sha256": "8556ae338c6120543c5a8cd63c2fa5c06362ee2c67f9f7b81917fdde6efc2416",
+  "notes": "字幕の読み枠をやめ、1 本の流れる字幕に戻しました。いちばん新しい文は下の欄に書き足すので、言葉が増えても字幕全体がずれません。メニューの「過去の会議…」から、これまでの会議の字幕・訳・まとめを読み返せます。Gemini Flash-Lite でまとめが作れなかった不具合を直し、まとめの費用の見積もりを実際の料金に合わせました。"
 }
