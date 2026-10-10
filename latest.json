@@ -1,7 +1,7 @@
 {
-  "version": "0.4.10",
-  "build": 23,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.10/Tsuyaku-0.4.10.zip",
-  "sha256": "14803b12c5eb091c0c5540dae3d04acbedb0934b399b42835146a594e58632bb",
-  "notes": "字幕の表示に「訳は押したときだけ」（⌘5、または開始前の見出しの「学習」）を追加。英語を主に出し、行末の「訳」か ⌥J で訳を開閉します。試験的な表示として、英文を意味のまとまりで「/」区切りにする設定（既定 off）も追加。"
+  "version": "0.4.11",
+  "build": 24,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.11/Tsuyaku-0.4.11.zip",
+  "sha256": "543aefa395eaf8a71cee88fb47f948e1cd7217b9cfd20b35c27c9a0d9f61a5ad",
+  "notes": "設定 › 記録に「会議の音声を残す」（既定 off）を追加。PC の音とマイクを m4a でこの Mac に残し、過去の会議から音声だけ削除もできます。停止後の話者の整理のメモリの使い方を改善。"
 }
