@@ -1,7 +1,7 @@
 {
-  "version": "0.4.6",
-  "build": 19,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.6/Tsuyaku-0.4.6.zip",
-  "sha256": "11e89a445924499933dc38ca56df82bc8193a57bc62e95c7eb255314ee803014",
-  "notes": "マイクの感度のスライダーを、右が高感度になる向きに直しました。録音中に動かすと、止めずにすぐ効きます。"
+  "version": "0.4.7",
+  "build": 20,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.7/Tsuyaku-0.4.7.zip",
+  "sha256": "9e1c28c2e7def4efbe9b4d01f973354c2414c6bc19e610430bf3ab835e9896b8",
+  "notes": "翻訳が Apple（端末内）のときにまとめが毎回失敗していた不具合を直しました（まとめはクラウド翻訳のときだけ作ります）。設定の「一般」に、マイクの声も話者ごとに分ける試験的なスイッチ（既定 off）を足しました。"
 }
