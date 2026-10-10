@@ -1,7 +1,7 @@
 {
-  "version": "0.4.9",
-  "build": 22,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.9/Tsuyaku-0.4.9.zip",
-  "sha256": "f72e77814c18801859eee8c60f33bdf7119c0ea9f4db7569e2ef9542ddecfd89",
-  "notes": "録音中に ⌥M（または字幕の右クリック）で「あとで聞き直す」印を付けられるように（書き起こしでは ★）。会議の後に通信が切れても、つながったら続きからまとめを作るように。"
+  "version": "0.4.10",
+  "build": 23,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.10/Tsuyaku-0.4.10.zip",
+  "sha256": "14803b12c5eb091c0c5540dae3d04acbedb0934b399b42835146a594e58632bb",
+  "notes": "字幕の表示に「訳は押したときだけ」（⌘5、または開始前の見出しの「学習」）を追加。英語を主に出し、行末の「訳」か ⌥J で訳を開閉します。試験的な表示として、英文を意味のまとまりで「/」区切りにする設定（既定 off）も追加。"
 }
