@@ -1,7 +1,7 @@
 {
-  "version": "0.4.7",
-  "build": 20,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.7/Tsuyaku-0.4.7.zip",
-  "sha256": "9e1c28c2e7def4efbe9b4d01f973354c2414c6bc19e610430bf3ab835e9896b8",
-  "notes": "翻訳が Apple（端末内）のときにまとめが毎回失敗していた不具合を直しました（まとめはクラウド翻訳のときだけ作ります）。設定の「一般」に、マイクの声も話者ごとに分ける試験的なスイッチ（既定 off）を足しました。"
+  "version": "0.4.8",
+  "build": 21,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.8/Tsuyaku-0.4.8.zip",
+  "sha256": "17861a67ca45480f727254480a61b422d6f4e207920978025681b29992849cd7",
+  "notes": "もう一度開くと字幕ウィンドウが出るように。音声・動画ファイルから書き起こし・訳・まとめを作れるように（「音声ファイルから作る…」）。字幕の表示の切り替え（日本語が主／英語が主／英語のみ／日本語のみ、⌘1〜⌘4）と、文字の大きさの変更（⌘+ / ⌘− / ⌘0）。"
 }
