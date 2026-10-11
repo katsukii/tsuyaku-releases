@@ -1,7 +1,7 @@
 {
-  "version": "0.4.11",
-  "build": 24,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.11/Tsuyaku-0.4.11.zip",
-  "sha256": "543aefa395eaf8a71cee88fb47f948e1cd7217b9cfd20b35c27c9a0d9f61a5ad",
-  "notes": "設定 › 記録に「会議の音声を残す」（既定 off）を追加。PC の音とマイクを m4a でこの Mac に残し、過去の会議から音声だけ削除もできます。停止後の話者の整理のメモリの使い方を改善。"
+  "version": "0.4.12",
+  "build": 25,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.12/Tsuyaku-0.4.12.zip",
+  "sha256": "57e856d27bfd19daf3fcfa2b5a60c788ec3b753497a7fbb160324c5f46ae143f",
+  "notes": "「会議の音声を残す」を on にした会議で、停止後と過去の会議の画面の英文の単語をクリックすると、その位置から再生できるようにしました。過去の会議から会議の音声を書き出せます（m4a／WAV、混ぜた 1 本か相手と自分の 2 本）。"
 }
