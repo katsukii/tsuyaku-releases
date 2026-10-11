@@ -1,7 +1,7 @@
 {
-  "version": "0.4.12",
-  "build": 25,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.12/Tsuyaku-0.4.12.zip",
-  "sha256": "57e856d27bfd19daf3fcfa2b5a60c788ec3b753497a7fbb160324c5f46ae143f",
-  "notes": "「会議の音声を残す」を on にした会議で、停止後と過去の会議の画面の英文の単語をクリックすると、その位置から再生できるようにしました。過去の会議から会議の音声を書き出せます（m4a／WAV、混ぜた 1 本か相手と自分の 2 本）。"
+  "version": "0.4.13",
+  "build": 26,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.13/Tsuyaku-0.4.13.zip",
+  "sha256": "a4f05a2847e8707252a23035c8ba3c426b2a5768edd3a69fb72ebbb3dda795f4",
+  "notes": "長い会議で、まとめに載せる項目が無いときに失敗していたのを直しました（項目なしとして終わります）。会議の後のまとめが少し早く、安くできるようになりました。"
 }
