@@ -1,7 +1,7 @@
 {
-  "version": "0.4.13",
-  "build": 26,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.13/Tsuyaku-0.4.13.zip",
-  "sha256": "a4f05a2847e8707252a23035c8ba3c426b2a5768edd3a69fb72ebbb3dda795f4",
-  "notes": "長い会議で、まとめに載せる項目が無いときに失敗していたのを直しました（項目なしとして終わります）。会議の後のまとめが少し早く、安くできるようになりました。"
+  "version": "0.4.14",
+  "build": 27,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.14/Tsuyaku-0.4.14.zip",
+  "sha256": "00e506ae194e4eeb40a5d4c0f2b60437173d62a9204ec4d3e3614058113460e5",
+  "notes": "相づちの表をいつも使う・まとめの作り直しと過去の会議からの再試行・字幕ウィンドウ上端の見えない帯をなくす・マイクが途切れたあとの字幕の時刻のずれを直す"
 }
