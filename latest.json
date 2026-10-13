@@ -1,7 +1,7 @@
 {
-  "version": "0.4.15",
-  "build": 28,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.15/Tsuyaku-0.4.15.zip",
-  "sha256": "56307d738c1e9c50c8c68a79c3c7c7880357107cd80f2146f355dc2d0c7e1b55",
-  "notes": "話者の名前を「相手」から「話者」に変えました。待機画面とメニューの言葉を整えました（翻訳／学習・リアルタイム翻訳・字幕の表示形式）。訳の開閉で表示と記録がずれる不具合と、同じ発話の字幕の重複を直しました。試験的な「語に色を付ける」を追加しました（既定はオフ）。"
+  "version": "0.4.16",
+  "build": 29,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.16/Tsuyaku-0.4.16.zip",
+  "sha256": "e3bfaa4329a29043f57d9266cb18f2ba172493fd89fa18a46e268cb27433291e",
+  "notes": "既定を「Dock にも表示」と「会議の音声を残す: オン」にしました。待機画面から音声ファイルで記録を作れるようにし、字幕ウィンドウと過去の会議を行き来しやすくしました。学習モードでは訳をポインタを載せるだけで出せます。起動が速くなり、過去の会議の書き起こしを「話者」の名前で作り直します。"
 }
