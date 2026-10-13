@@ -1,7 +1,7 @@
 {
-  "version": "0.4.14",
-  "build": 27,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.14/Tsuyaku-0.4.14.zip",
-  "sha256": "00e506ae194e4eeb40a5d4c0f2b60437173d62a9204ec4d3e3614058113460e5",
-  "notes": "相づちの表をいつも使う・まとめの作り直しと過去の会議からの再試行・字幕ウィンドウ上端の見えない帯をなくす・マイクが途切れたあとの字幕の時刻のずれを直す"
+  "version": "0.4.15",
+  "build": 28,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.15/Tsuyaku-0.4.15.zip",
+  "sha256": "56307d738c1e9c50c8c68a79c3c7c7880357107cd80f2146f355dc2d0c7e1b55",
+  "notes": "話者の名前を「相手」から「話者」に変えました。待機画面とメニューの言葉を整えました（翻訳／学習・リアルタイム翻訳・字幕の表示形式）。訳の開閉で表示と記録がずれる不具合と、同じ発話の字幕の重複を直しました。試験的な「語に色を付ける」を追加しました（既定はオフ）。"
 }
