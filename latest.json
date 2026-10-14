@@ -1,7 +1,7 @@
 {
-  "version": "0.4.16",
-  "build": 29,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.16/Tsuyaku-0.4.16.zip",
-  "sha256": "e3bfaa4329a29043f57d9266cb18f2ba172493fd89fa18a46e268cb27433291e",
-  "notes": "既定を「Dock にも表示」と「会議の音声を残す: オン」にしました。待機画面から音声ファイルで記録を作れるようにし、字幕ウィンドウと過去の会議を行き来しやすくしました。学習モードでは訳をポインタを載せるだけで出せます。起動が速くなり、過去の会議の書き起こしを「話者」の名前で作り直します。"
+  "version": "0.4.17",
+  "build": 30,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.17/Tsuyaku-0.4.17.zip",
+  "sha256": "3a208096554c2429ed6a262b29bfd806170cc3dbf0731444d37984e0ba706c24",
+  "notes": "Tsuyaku がほかのアプリの後ろに回っても、過去の会議などの窓が見えなくならないようにしました。日本語で話した文は訳さずに日本語のまま出します。聞き分けられないマイクの声は「自分」と出します。翻訳の表示では再生中に単語ごとに強調し、学習モードでは訳をぼかしておいて、ポインタを載せたときにその場で見せます。"
 }
