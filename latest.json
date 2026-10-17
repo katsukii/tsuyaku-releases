@@ -1,7 +1,7 @@
 {
-  "version": "0.4.18",
-  "build": 31,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.18/Tsuyaku-0.4.18.zip",
-  "sha256": "faba624f3c84fe285ed0e72a38533ccc5a25af1a7948d775ad847d5254c71639",
-  "notes": "学習の表示を「英語が主」の中のモザイクの切り替えにまとめ、［訳］のボタンをなくしました（訳はポインタを載せると見えます）。開いたままの窓でも単語のクリックで再生でき、押せる所ではカーソルが指になります。音声ファイルから作った会議も再生できます。字幕の文の右クリックに「詳しく訳す」を足しました。"
+  "version": "0.4.19",
+  "build": 32,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.19/Tsuyaku-0.4.19.zip",
+  "sha256": "6453cdd3e386d48e941c4701d6e49851d784b7b98be641b6c37befb8057b7fc2",
+  "notes": "字幕にするアプリを選べるようになりました（ほかのアプリの音を混ぜません）。起動時に約 18 秒止まることがあったのを直しました。マイクは PC が静かな間だけ聞くゲートを既定にし、ヘッドホンのときに自分の言葉を取り下げにくくしました。字幕の行の並びと表示の不具合をいくつか直しました。"
 }
