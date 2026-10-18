@@ -1,7 +1,7 @@
 {
-  "version": "0.4.19",
-  "build": 32,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.19/Tsuyaku-0.4.19.zip",
-  "sha256": "6453cdd3e386d48e941c4701d6e49851d784b7b98be641b6c37befb8057b7fc2",
-  "notes": "字幕にするアプリを選べるようになりました（ほかのアプリの音を混ぜません）。起動時に約 18 秒止まることがあったのを直しました。マイクは PC が静かな間だけ聞くゲートを既定にし、ヘッドホンのときに自分の言葉を取り下げにくくしました。字幕の行の並びと表示の不具合をいくつか直しました。"
+  "version": "0.4.20",
+  "build": 33,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.20/Tsuyaku-0.4.20.zip",
+  "sha256": "4330ff800a1fec09ae6667db3a2262c468273c51c6eec83019d439bddbbf5d4c",
+  "notes": "過去の会議を文字で探せるようになりました（題・まとめ・字幕と訳から）。設定画面を整理し、過去の会議の窓が macOS のライト・ダークに従うようになりました。Apple の翻訳データが無いときにメニューバーからセットアップを開けるようにし、マイクの作り直しでまれに起きた不具合を直しました。"
 }
