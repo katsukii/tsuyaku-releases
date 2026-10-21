@@ -1,7 +1,7 @@
 {
-  "version": "0.4.20",
-  "build": 33,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.20/Tsuyaku-0.4.20.zip",
-  "sha256": "4330ff800a1fec09ae6667db3a2262c468273c51c6eec83019d439bddbbf5d4c",
-  "notes": "過去の会議を文字で探せるようになりました（題・まとめ・字幕と訳から）。設定画面を整理し、過去の会議の窓が macOS のライト・ダークに従うようになりました。Apple の翻訳データが無いときにメニューバーからセットアップを開けるようにし、マイクの作り直しでまれに起きた不具合を直しました。"
+  "version": "0.4.21",
+  "build": 34,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.21/Tsuyaku-0.4.21.zip",
+  "sha256": "33ed6c123103141518c65a9e5b802cbd46a5767834cab7d12f1f15dd682a948b",
+  "notes": "字幕の窓のヘッダーと字幕の動きを新しくしました。字幕を AI 用にコピーできるようにし、開いたときに字幕から自分のやることを並べる「自分の ToDo」を足しました。字幕をさかのぼって読んでいると最新へ戻される不具合や、更新の確認で固まることがある問題を直しました。"
 }
