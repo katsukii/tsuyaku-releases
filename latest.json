@@ -1,7 +1,7 @@
 {
-  "version": "0.4.21",
-  "build": 34,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.21/Tsuyaku-0.4.21.zip",
-  "sha256": "33ed6c123103141518c65a9e5b802cbd46a5767834cab7d12f1f15dd682a948b",
-  "notes": "字幕の窓のヘッダーと字幕の動きを新しくしました。字幕を AI 用にコピーできるようにし、開いたときに字幕から自分のやることを並べる「自分の ToDo」を足しました。字幕をさかのぼって読んでいると最新へ戻される不具合や、更新の確認で固まることがある問題を直しました。"
+  "version": "0.4.23",
+  "build": 36,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.23/Tsuyaku-0.4.23.zip",
+  "sha256": "e52068221205a4bf84872e00433bdac4d04b26706ac7746504e3dd0a22cbe82c",
+  "notes": "停止後の字幕ウィンドウと音声操作を見直し、再生中の字幕の縦ぶれを直しました。クラウド翻訳が不適切な答えを返した場合の再試行・Apple 翻訳への切り替えを改善し、「thanks」「thank you」「go ahead」の訳を端末内で処理するようにしました。まとめでは、根拠の多い項目を捨てずに残し、検証のしかたを見直しました。安定性の改善も含みます。"
 }
