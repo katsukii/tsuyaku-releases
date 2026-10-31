@@ -1,7 +1,7 @@
 {
-  "version": "0.4.24",
-  "build": 37,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.24/Tsuyaku-0.4.24.zip",
-  "sha256": "f11283354727c8024ff0458121f4d9e1703aade29348e4263223864634d3584f",
-  "notes": "設定を「一般・用語と名前・記録・開発」の 4 つのタブに整理し、スクロールせずに収まるようにしました。字幕の表示形式・文字の大きさ・背景の濃さは、字幕の窓の「表示」から録音中でも変えられます。会議のアプリから学習の機能を外しました。"
+  "version": "0.4.25",
+  "build": 38,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.25/Tsuyaku-0.4.25.zip",
+  "sha256": "830203a322210378eed70d13149932b86e8e014aea85b0f3245426a365408f06",
+  "notes": "録音中に字幕の一覧が空になることがあったのを直しました。読み返している間に字幕の窓の大きさを変えても、最新の行へ戻されなくなりました。ファイルの取り込みで無駄な翻訳の予備を走らせないようにしました。"
 }
