@@ -1,7 +1,7 @@
 {
-  "version": "0.4.25",
-  "build": 38,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.25/Tsuyaku-0.4.25.zip",
-  "sha256": "830203a322210378eed70d13149932b86e8e014aea85b0f3245426a365408f06",
-  "notes": "録音中に字幕の一覧が空になることがあったのを直しました。読み返している間に字幕の窓の大きさを変えても、最新の行へ戻されなくなりました。ファイルの取り込みで無駄な翻訳の予備を走らせないようにしました。"
+  "version": "0.4.26",
+  "build": 39,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.26/Tsuyaku-0.4.26.zip",
+  "sha256": "914ca3804ce08a096eb605876d61b1e20f6254fccf1cc6ff38fc4dfd0ac6e7f9",
+  "notes": "英語の発言が日本語と誤って判定されることを減らしました（音声でも言語を確かめるため、アプリが大きくなりました）。設定に「操作」のタブを加え、メニューの項目を設定からも使えるようにしました。設定に「アカウント」のタブを加えました（Google でログインできます。翻訳とまとめの動きは今のままです）。停止時のお知らせの文を直しました。"
 }
