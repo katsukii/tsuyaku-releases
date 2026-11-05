@@ -1,7 +1,7 @@
 {
-  "version": "0.4.26",
-  "build": 39,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.26/Tsuyaku-0.4.26.zip",
-  "sha256": "914ca3804ce08a096eb605876d61b1e20f6254fccf1cc6ff38fc4dfd0ac6e7f9",
-  "notes": "英語の発言が日本語と誤って判定されることを減らしました（音声でも言語を確かめるため、アプリが大きくなりました）。設定に「操作」のタブを加え、メニューの項目を設定からも使えるようにしました。設定に「アカウント」のタブを加えました（Google でログインできます。翻訳とまとめの動きは今のままです）。停止時のお知らせの文を直しました。"
+  "version": "0.4.27",
+  "build": 40,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.27/Tsuyaku-0.4.27.zip",
+  "sha256": "feb610a4aa66ecb8b1cc5f707cec496de468aeaa3a4583d24b9d98ad8c5829a7",
+  "notes": "起動の直後に落ちることがあったのを直しました。字幕の窓に会議の中の検索（⌘F）、新しい版の表示、PC の音が届かないときのお知らせ、停止の後の「＋ 新しい通訳」（⌘N）を加え、話者や話題の区切りを見分けやすくしました。翻訳データのダウンロードの後に準備済みにならないこと・停止の直後の再生・ログインの取り消しの後に進めないことを直し、使うメモリを減らしました。"
 }
