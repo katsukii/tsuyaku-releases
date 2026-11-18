@@ -1,7 +1,7 @@
 {
-  "version": "0.4.29",
-  "build": 42,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.29/Tsuyaku-0.4.29.zip",
-  "sha256": "3a66cb0354c902d1a4774632e7f325878c4f713015d2223bad0e5ae046823b11",
-  "notes": "会議の後の話者の整理の途中でアプリを終えると落ちることがあったのを直しました。音を出しているアプリが 1 つもない Mac で対面・講義の会議のマイクが閉じたままになりうること、「自分の ToDo」が長い会議で途中で切れることを直しました。Gemini Flash の訳が 4 秒答えないときは同じ依頼をもう 1 本送り、訳が止まりにくくなります（「応答が遅いときは予備にも送信」が入のとき）。"
+  "version": "0.4.30",
+  "build": 43,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.30/Tsuyaku-0.4.30.zip",
+  "sha256": "94f03fda04f2fe42052f6546beadca12f1b5530ff6c932f54aaca397749c2524",
+  "notes": "macOS 27 で初めて起動したときに、約 1 秒で落ちて開けないことがあったのを直しました。"
 }
