@@ -1,7 +1,7 @@
 {
-  "version": "0.4.30",
-  "build": 43,
-  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.30/Tsuyaku-0.4.30.zip",
-  "sha256": "94f03fda04f2fe42052f6546beadca12f1b5530ff6c932f54aaca397749c2524",
-  "notes": "macOS 27 で初めて起動したときに、約 1 秒で落ちて開けないことがあったのを直しました。"
+  "version": "0.4.31",
+  "build": 44,
+  "url": "https://github.com/katsukii/tsuyaku-releases/releases/download/v0.4.31/Tsuyaku-0.4.31.zip",
+  "sha256": "ced182013feeb4997984980e35b9cc51325293bd950ac08727d3fdadc3f7ce9f",
+  "notes": "macOS 27 で字幕の窓を別の画面へドラッグすると、窓がポインターからずれたままになっていたのを直しました。"
 }
